@@ -2,4 +2,7 @@
 2. main branch-hi~
 3. main branch-dev1-hihi~
 4. main branch-dev2-hello~
+// 내가 추가한내용
 5. main branch-modify1-로컬저장만
+// 다른 개발자가 추가한 내용
+5. main branch-dev2-원격저장
